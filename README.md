@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Sreeka 👋
+
+🎓 AIML Engineering Student
+🤖 Exploring AI, Generative AI, and Intelligent Systems
+🌱 Interested in sustainable technology, creative AI applications, and real-world problem solving
